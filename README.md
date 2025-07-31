@@ -74,10 +74,10 @@ Design Thinking • Agile • Lean UX
 
 I'm always open to collaboration, freelance opportunities, or just grabbing coffee to chat.
 
-- **Portfolio:** [https://www.ethandith.com]  
-- **LinkedIn:** [https://www.linkedin.com/in/ethandith/]  
+- **Portfolio:** [www.ethandith.com]  
+- **LinkedIn:** [www.linkedin.com/in/ethandith/]  
 - **Email:** [ethandith@gmail.com]  
-- **GitHub:** [https://www.github.com/nahtieee]  
+- **GitHub:** [www.github.com/nahtieee]  
 
 ---
 
