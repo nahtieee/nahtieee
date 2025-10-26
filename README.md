@@ -30,27 +30,6 @@ University of Washington, Bothell
 
 ---
 
-## ✨ What I'm Building & My Expertise
-
-I'm passionate about translating ideas into thoughtful, usable, and human-centered experiences. My skills include:
-
-### 🧠 User-Centered Design  
-From interviews and usability testing to personas and user flows, I keep user needs at the core.
-
-- **Studdy Spotter** — A web app for discovering and reviewing campus study spaces. I led the UX research and design, building a clean, filterable interface to help students find spots based on Wi-Fi, noise level, and outlets.
-
-### 🎨 UI/UX Design & Prototyping  
-I bring ideas to life through wireframes, mockups, and interactive Figma prototypes.
-
-- **MindfulU** — A self-care and mood-tracking app designed in 24 hours during DubHacks. We focused on creating a calming, accessible interface with soft color palettes and simple interactions earning us 2nd place in our category.
-
-### 🗺️ Visual Storytelling & Interaction Design  
-Inspired by games, I craft experiences that feel immersive and emotionally resonant.
-
-- **Tourify** — A mobile app designed to help users explore exhibits through guided audio walking tours. I focused on creating playful yet easy to follow visuals to keep users engaged while on the move.
-
----
-
 ## 💻 Tools & Tech
 
 **Design & Prototyping**  
@@ -72,7 +51,7 @@ Design Thinking • Agile • Lean UX
 
 ## 🤝 Let’s Connect!
 
-I'm always open to collaboration, freelance opportunities, or just grabbing coffee to chat.
+I'm always open to collaboration or just grabbing coffee to chat.
 
 - **Portfolio:** [www.ethandith.com]  
 - **LinkedIn:** [www.linkedin.com/in/ethandith/]  
