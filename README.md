@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-What drives me to design is the challenge of making something beautiful *and* useful. I’ve always been drawn to how games blend storytelling and interactivity to immerse users it's what pulled me into the world of design.
+What drives me to design is the challenge of making something beautiful *and* useful. I’ve always been drawn to how games blend storytelling and interactivity.
 
 When I’m not designing, I’m usually gaming, making music, or shooting hoops.
 
@@ -43,9 +43,6 @@ UserTesting • Maze
 
 **Collaboration**  
 Miro • Git
-
-**Methods**  
-Design Thinking • Agile • Lean UX
 
 ---
 
